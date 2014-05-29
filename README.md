@@ -1,4 +1,4 @@
 PMWDJsonRequestBundle
 =====================
 
-This Symfony Bundle moves JSON data inside request body to the request parameter bag
+A Symfony Bundle that moves JSON data inside request body to the request parameter bag
