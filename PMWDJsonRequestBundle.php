@@ -14,7 +14,7 @@ namespace PMWD\Bundle\JsonRequestBundle;
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
 /**
- * PMWDAngularJSBundle.
+ * PMWDJsonRequestBundle.
  *
  * @author Michael Piecko <michael.piecko@gmail.com>
  */
